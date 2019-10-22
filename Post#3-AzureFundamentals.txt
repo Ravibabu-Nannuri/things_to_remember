@@ -1,0 +1,19 @@
+Post#3
+
+Azure Fundamentals(Cont.): Basic Things to remember
+
+	1) Commonly used tools for day to day Azure management and interaction are:  Azure Portal, Azure PowerShell, Azure CLI, Azure Cloud Shell, Azure SDKs
+	2) Positive of Azure CLI is it works exactly the same way on any platform (Like Mac, Linux and Windows)
+	3) Before using Azure CLI, get yourself familiarized with Azure portal first to understand different Azure services and the options they provide.
+	4) There are four ways to get the computing resources from Azure. VM's, Containers, App Service and Serverless Computing
+	5) VM's include guest operating system where as Containers doesn't include the operating system for the apps running inside container.
+	6) Containers are often used in applications that use microservices architecture
+	7) Containerize all your services (Preferably Docker Containers )
+	8) Publish the container images to Azure Container Registry (ACR) or to other repositories like Jfrog Artificatory
+	9) To deploy Kubernetes cluster, use the azure managed Kubernetes Service (AKS)
+	10) Azure app service is a PaaS offering for enterprise-grade web oriented applications
+	11) Using Azure AppService, we can host webapps, API Apps, WebJobs and Mobile Apps
+	12) Serverless computing is a cloud-hosted execution environment that runs your code but completely abstracts the underlying hosting environment
+    Serverless computing encompasses three ideas: abstraction of execution environment, an event driven scale, pay only for the time your code runs.
+
+#Basics #AzureFundamentals 
