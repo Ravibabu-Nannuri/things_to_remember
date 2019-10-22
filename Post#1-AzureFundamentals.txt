@@ -1,0 +1,19 @@
+Post#1
+
+Cloud Concepts: Basic things to remember
+	· Cloud computing is basically renting different kind of resources (like Computing, Storage, Networking, Analytics) on another company computers
+	· Main goal of moving to cloud is to reduce expenditure cost for your company (If proper governance in place). 
+	· Enables the speed to market and it provides local presence close to your customers .
+	· You and Cloud provider are responsible for the security (Shared responsibility model)
+	· You pay for what you need at that moment( Consumption based pricing model)
+	· Based on the company's vision, security requirements, we can choose either of three types of cloud deployments. Each has it's own advantages and disadvantages
+		○ Public ( All the resources and data sits on another company computers)
+		○ Private ( Build cloud environment on your own company data center) 
+		○ Hybrid ( Few resources on another company computer, few on private cloud and build connectivity between them )
+	· Cloud offers services in the three below categories. As a consumer, your ownership is going to change in each offering
+		○ Infrastructure as a Service (IaaS)
+		○ Platform as a Service (PaaS)
+		○ Software as a Service (SaaS)
+	 		
+		
+Read more @https://bit.ly/2OSGBSR
